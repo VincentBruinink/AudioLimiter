@@ -1,2 +1,2 @@
 # AudioLimiter
-Simple header only audio peak limiter
+Simple header only audio peak limiter (C++)
